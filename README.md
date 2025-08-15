@@ -5,6 +5,6 @@ square signal:Square function
 tringualar signal:sawtooth function
 composite signal:adittion of signals
 I have written specific code for every signal in editor window.
-I plotted this 4 signals on GUI window
+I plotted these 4 signals on GUI window
 I have used exit button to exit from the GUI window
-I have used MATHLAB 2016 a versionto get the results.
+I have used MATHLAB 2016a version to get the results.
